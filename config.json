@@ -1,0 +1,7 @@
+{
+    "token": "BOT İD", 
+    "guildId": "SUNUCU İD",
+    "voiceChannelId": "BOTUN GİRECEĞİ SES KANAL İD",
+    "autoRoleId": "OTOMATİK ROL İD",
+    "logChannelId": "LOG KANAL ID"
+}
